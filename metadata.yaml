@@ -1,0 +1,45 @@
+_repo: '------------------_37397'
+_version: 0.1.0
+alternative_title: Weird Stories
+contributor:
+  translator:
+    agent_name: Spandones, N. (Nikolaos)
+    aliases:
+    - Spandonis, Nikolaos
+    - Spandones, Nikolaos
+    - Σπανδονής, Νικόλαος
+    birthdate: 1858
+    deathdate: 1913
+    gutenberg_agent_id: '38820'
+    url: http://www.gutenberg.org/2009/agents/38820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37397'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Το σύστημα του δόκτορος Γκουντρόν και του καθηγητού Πλουμ Σελ --
+  Το πηγάδι και το εκκρεμές -- Η συνάντησις -- Λίγεια -- Ο δαίμων της διαφθοράς --
+  Χοπ-Φρωγκ -- Η κατήγορος καρδία -- Ζωντανός στον τάφο.
+title: Ιστορίες αλλόκοτες
+url: http://www.gutenberg.org/ebooks/37397
